@@ -36,9 +36,26 @@
 
 ---
 
-# 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,firebase,git,figma,vscode" />
+## 🛠️ Tech Stack
+
+### 💻 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue" height="40" style="margin-right:10px"/>
+</p>
+
+### 🖥️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="40" style="margin-right:10px"/>
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" height="40" style="margin-right:10px"/>
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" height="40" style="margin-right:10px"/>
 </p>
 
 ---
