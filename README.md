@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20views&color=0e75b6&style=flat" alt="roksanadilshad" /> </p>
 
 - 🌱 I’m currently learning **JS, TS, React, Node, Express, MongoDB.**
-
+- 🔥 I build modern full-stack web applications using React, Node.js, Express & MongoDB  
+- 🌱 Improving my backend design & authentication systems  
+- 🛠️ Currently working on: E-commerce, Dashboard, and Real-time apps  
 - 📫 Reach me at **roksanadilshad@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
