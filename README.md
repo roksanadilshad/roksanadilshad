@@ -27,21 +27,12 @@
   <a href="https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="45" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-  <a href="https://www.behance.net/roksanadilshad1" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=behance" alt="Behance" width="45" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
+  <a href="https://fb.com/https://www.facebook.com/roksana.dilshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/roksana.dilshad/" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/roksanadilshad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/roksanadilshad1" height="30" width="40" /></a>
   <a href="https://github.com/roksanadilshad" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/roksana.dilshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/roksana.dilshad/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/roksanadilshad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/roksanadilshad1" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/2200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="2200" height="30" width="40" /></a>
 
 ---
 
