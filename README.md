@@ -91,13 +91,8 @@
 
 ---
 
-# 🔥 Fun Animations
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/giphy.gif" width="300" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4l1QWb5mA2bX2/giphy.gif" width="300" />
-</p>
+# 🔥 Fun Animation
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+React+%F0%9F%9A%80;Building+Full-Stack+Apps;Exploring+New+Tech+Daily" />
 </p>
