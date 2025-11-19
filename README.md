@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/j9vQbrNs/profile-banner-5.png" alt="Banner" width="100%" height="200" style="border-radius:50" />
+  <img src="https://i.ibb.co/j9vQbrNs/profile-banner-5.png" alt="Banner" width="100%" height="200" border-radius:"50" />
 </p>
 <!-- Banner -->
 <p align="center">
