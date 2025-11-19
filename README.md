@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/Myy6MPhw.png" alt="Banner" width="100%" height="200" />
+  <img src="https://ibb.co.com/Myy6MPhw" alt="Banner" width="100%" height="200" />
 </p>
 <!-- Banner -->
 <p align="center">
