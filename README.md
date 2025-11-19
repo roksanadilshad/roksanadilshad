@@ -1,3 +1,7 @@
+<!-- Static Banner -->
+<p align="center">
+  <img src="https://ibb.co.com/Myy6MPhw" alt="Banner" width="100%" />
+</p>
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
