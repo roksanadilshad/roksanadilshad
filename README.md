@@ -1,27 +1,91 @@
-<h1 align="center">Hi 👋, I'm Roksana Dilshad</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20views&color=0e75b6&style=flat" alt="roksanadilshad" /> </p>
+---
 
-- 🌱 I’m currently learning **JS, TS, React, Node, Express, MongoDB.**
-- 🔥 I build modern full-stack web applications using React, Node.js, Express & MongoDB  
-- 🌱 Improving my backend design & authentication systems  
-- 🛠️ Currently working on: E-commerce, Dashboard, and Real-time apps  
-- 📫 Reach me at **roksanadilshad@gmail.com**
+<h2 align="center">🚀 MERN Stack Developer | Passionate Coder | Bangladesh 🇧🇩</h2>
 
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+</p>
+
+---
+
+## 🔥 **About Me**
+- 🌱 Currently learning **JavaScript, TypeScript, React, Node, Express & MongoDB**  
+- ⚡ Building **E-commerce, Dashboards & Real-time Projects**  
+- 🧠 Improving **backend architecture & authentication**  
+- 📩 Reach me at **roksanadilshad@gmail.com**
+
+---
+
+# 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/roksana.dilshad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/roksana.dilshad/" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/roksanadilshad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/roksanadilshad1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+<a href="https://www.facebook.com/roksana.dilshad/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="45" />
+</a>
+<a href="https://www.behance.net/roksanadilshad1" target="_blank">
+  <img src="https://skillicons.dev/icons?i=behance" width="45" />
+</a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roksanadilshad&show_icons=true&locale=en&layout=compact" alt="roksanadilshad" /></p>
+# 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,firebase,git,figma,vscode" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&locale=en" alt="roksanadilshad" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roksanadilshad&" alt="roksanadilshad" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad" alt="roksanadilshad" /></a> </p>
+# 📊 GitHub Analytics
 
+## 🌟 Overall Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roksanadilshad&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roksanadilshad&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
+</p>
+
+---
+
+# 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Fun Animations
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajpratik71/rajpratik71/master/giphy.gif" width="300" />
+</p>
+
+---
+
+# 🎯 Final Touch
+<p align="center">
+  <img src="https://img.shields.io/badge/Code%20Like%20A%20Pro-💻-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Developer-🔥-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To%20Work-📬-yellow?style=for-the-badge" />
+</p>
+
+---
