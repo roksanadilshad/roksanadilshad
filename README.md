@@ -1,6 +1,6 @@
 <!-- Static Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/SDDrRVxY/git-banner.jpg" alt="Banner" width="100%" height="200" />
+  <img object=''cover src="https://i.ibb.co.com/SDDrRVxY/git-banner.jpg" alt="Banner" width="100%" height="200" />
 </p>
 <!-- Banner -->
 <p align="center">
