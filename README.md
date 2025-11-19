@@ -28,7 +28,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/roksana-dilshad-25576a2b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.facebook.com/roksana.dilshad/" target="_blank">
