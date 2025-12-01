@@ -18,7 +18,7 @@
 ---
 
 ## 🔥 **About Me**
-- 🌱 Currently learning **JavaScript, TypeScript, React, Node, Express & MongoDB**  
+- 🌱 Currently learning **JavaScript, TypeScript, React, Node,Next.js, Express & MongoDB**  
 - ⚡ Building **E-commerce, Dashboards & Real-time Projects**  
 - 🧠 Improving **backend architecture & authentication**  
 - 📩 Reach me at **roksanadilshad@gmail.com**
@@ -48,7 +48,7 @@
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue" height="40" style="margin-right:10px"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vue,next" height="40" style="margin-right:10px"/>
 </p>
 
 ### 🖥️ Backend
