@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=Roksana%20Dilshad&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer&descAlignY=62&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Roksana%20Dilshad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Roksana;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Building+Scalable+Web+Apps">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
 </p>
 
 ---
