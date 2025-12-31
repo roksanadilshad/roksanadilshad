@@ -22,8 +22,8 @@
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
-  <a href="https://www.behance.net/roksanadilshad1" target="_blank"><img src="https://skillicons.dev/icons?i=behance" width="45" /></a>
+  <a href="https://github.com/roksanadilshad" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" style="margin-right: 10px;" /></a>
+  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" height="45" style="margin-right: 10px;" /></a>
   <a href="https://github.com/roksanadilshad" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
 </p>
 
