@@ -67,7 +67,8 @@
 
 </p>
 ---
-# 🔥 Fun Animation
+
+## 🔥 Fun Animation
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+React+%F0%9F%9A%80;Building+Full-Stack+Apps;Exploring+New+Tech+Daily" />
 </p>
