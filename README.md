@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00BFFF&height=200&section=header&text=Roksana%20Dilshad&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=roksanadilshad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -19,32 +19,21 @@
 
 ## 🌐 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
-  </a>
-  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="45" height="45" />
-  </a>
-  <a href="https://www.behance.net/roksanadilshad1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" width="45" height="45" />
-  </a>
-  <a href="https://github.com/roksanadilshad" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
-  </a>
+  <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
+  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
+  <a href="https://www.behance.net/roksanadilshad1" target="_blank"><img src="https://skillicons.dev/icons?i=behance" width="45" /></a>
+  <a href="https://github.com/roksanadilshad" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next" alt="Frontend Skills" />
+### 💻 Frontend & Design
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next,figma" />
 
 ### 🖥️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
-
-### 🎨 Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,git,vscode" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,vscode" />
 
 ---
 
@@ -56,17 +45,21 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roksanadilshad&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-### 🏆 Achievements
+---
+
+## 🏆 GitHub Trophies (Alternative High-Load Style)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&no-frame=false&margin-w=15" width="100%" />
 </p>
 
-### 📈 Activity Graph
+---
+
+# 🔥 Fun Animation
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+React+%F0%9F%9A%80;Building+Full-Stack+Apps;Exploring+New+Tech+Daily" />
 </p>
 
 ---
