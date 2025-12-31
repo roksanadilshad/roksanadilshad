@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
@@ -69,4 +67,8 @@
   <img src="https://img.shields.io/badge/Code%20Like%20A%20Pro-💻-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN%20Developer-🔥-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Open%20To%20Work-📬-yellow?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
