@@ -1,4 +1,8 @@
+<p align="center">
 
+  <img src="https://i.ibb.co/j9vQbrNs/profile-banner-5.png" alt="Banner" width="100%" height="200" />
+
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B,+I'm+Roksana+Dilshad;MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Always+Learning+New+Tech!">
