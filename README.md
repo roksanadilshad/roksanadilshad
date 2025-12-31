@@ -58,29 +58,9 @@
 </p>
 
 ---
-## 📊 GitHub Analytics
-
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roksanadilshad&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<h3 align="center">🐍 Contribution Activity</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/roksanadilshad/roksanadilshad/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
----
-
-## 🎯 Status
-<p align="center">
-  <img src="https://img.shields.io/badge/Code%20Like%20A%20Pro-💻-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN%20Developer-🔥-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To%20Work-📬-yellow?style=for-the-badge" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 # 🔥 Fun Animation
