@@ -58,25 +58,6 @@
 </p>
 
 ---
-# 📊 GitHub Analytics
-
-
-
-## 🌟 Overall Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roksanadilshad&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</p>
-
-
-
----
-
-
 
 ## 🔥 Streak Stats
 
@@ -85,37 +66,7 @@
   <img src="https://streak-stats.demolab.com?user=roksanadilshad&theme=tokyonight&hide_border=true" />
 
 </p>
-
-
-
 ---
-
-
-
-## 🏆 Achievements
-
-<p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" />
-
-</p>
-
-
-
----
-
-
-
-# 📈 Activity Graph
-
-<p align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true" />
-
-</p>
-
-
-
 # 🔥 Fun Animation
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=Learning+React+%F0%9F%9A%80;Building+Full-Stack+Apps;Exploring+New+Tech+Daily" />
