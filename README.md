@@ -12,66 +12,66 @@
 
 ---
 
-## 💫 About Me
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <ul>
-        <li>🌱 Currently mastering <b>Next.js & TypeScript</b></li>
-        <li>⚡ Building <b>E-commerce & Real-time Dashboards</b></li>
-        <li>🧠 Focused on <b>Scalable Architecture & Auth</b></li>
-        <li>📫 Contact: <a href="mailto:roksanadilshad@gmail.com">roksanadilshad@gmail.com</a></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=roksanadilshad&repo=roksanadilshad&theme=tokyonight&show_owner=true" alt="Repo Pin" />
-    </td>
-  </tr>
-</table>
+## 🔥 **About Me**
+- 🌱 Currently learning **JavaScript, TypeScript, React, Node, Next.js, Express & MongoDB** - ⚡ Building **E-commerce, Dashboards & Real-time Projects** - 🧠 Improving **backend architecture & authentication** - 📩 Reach me at **roksanadilshad@gmail.com**
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="45" height="45" />
+  </a>
+  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="45" height="45" />
+  </a>
+  <a href="https://www.behance.net/roksanadilshad1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=behance" alt="Behance" width="45" height="45" />
+  </a>
+  <a href="https://github.com/roksanadilshad" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,firebase" /> |
-| **Design/Tools** | <img src="https://skillicons.dev/icons?i=figma,git,vscode" /> |
+### 💻 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,next" alt="Frontend Skills" />
+
+### 🖥️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" alt="Backend Skills" />
+
+### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,git,vscode" alt="Tools" />
 
 ---
 
 ## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roksanadilshad&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=roksanadilshad&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roksanadilshad&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=roksanadilshad&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
-### 🏆 Trophy Room
+### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&margin-w=10&no-bg=true&no-frame=true" alt="Trophies" />
 </p>
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roksanadilshad&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/roksana-dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-  <a href="https://github.com/roksanadilshad" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-  <a href="https://www.facebook.com/roksana.dilshad/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45" /></a>
-  <a href="https://www.behance.net/roksanadilshad1" target="_blank"><img src="https://skillicons.dev/icons?i=behance" width="45" /></a>
-</p>
-
+## 🎯 Final Touch
 <p align="center">
   <img src="https://img.shields.io/badge/Code%20Like%20A%20Pro-💻-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MERN%20Developer-🔥-green?style=for-the-badge" />
