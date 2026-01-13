@@ -52,7 +52,7 @@
 
 ---
 
-## 🏆 GitHub Trophies (Alternative High-Load Style)
+## 🏆 GitHub Trophies 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=roksanadilshad&theme=tokyonight&no-frame=false&margin-w=15" width="100%" />
 </p>
